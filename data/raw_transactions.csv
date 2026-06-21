@@ -1,0 +1,9 @@
+transaction_id,customer_id,timestamp,amount,product_category,status
+T1001,C101,2026-06-01 10:15:30,250.50,Electronics, Completed 
+T1002,C102,2026-06-01 11:20:00,,Apparel,Completed
+T1003,C103,2026-06-01 12:45:12,-45.00,Home,Refunded
+T1001,C101,2026-06-01 10:15:30,250.50,Electronics, Completed 
+T1004,C104,2026-06-02 09:00:15,120.00,Apparel,Pending
+T1005,,2026-06-02 14:10:22,85.75,Books,Completed
+T1006,C102,2026-06-02 16:35:40,500.00,ELECTRONICS,Completed
+T1007,C105,2026-06-03 18:22:11,15.25,Books,Completed
